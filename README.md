@@ -13,7 +13,7 @@
 <h2> 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚 <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;"></h2>
 
 <a target="_blank">
-   <img align="right" height="250" width= "280px" alt="GIF" src="https://cdn.discordapp.com/attachments/814617281006665769/995820339709870090/500px-Circle_-_black_simple.svg.png" />
+   <img align="right" height="250" width= "280px" alt="GIF" src="https://cdn.discordapp.com/attachments/891258880250753044/995822553685819442/252-2523326_customer-support-icon-png-tech-support-icon-png-removebg-preview.png" />
 </a>
 
 - 🔭 I’m currently working on a FiveM Server, stay tuned!
@@ -36,6 +36,8 @@
 <code><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"></code>
 <code><img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css"></code>
 <code><img src="https://img.shields.io/badge/lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="lua"></code>
+<br/>
+<br/>
 <code><img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vs"></code>
 <code><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"></code>
 </div>
